@@ -62,12 +62,6 @@ After preprocessing, the dataset was split into training and validation sets:
 
 ---
 
-## Training Visualization
-- Attempted to plot training and validation accuracy/loss.
-- Encountered an issue retrieving history, possibly due to session reload.
-
----
-
 ## Saved Model
 The improved model was saved for future use:
 - **Path**: `/content/drive/MyDrive/KaggleDatasets/improved_deepfake_model.keras`
