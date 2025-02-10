@@ -35,9 +35,9 @@ Architecture: Simple CNN with Conv2D, MaxPooling2D, Flatten, Dense, and Dropout 
 
 Results:
 
-Training Accuracy: ~77%
+Training Accuracy: ~77.02%
 
-Validation Accuracy: ~52-53%
+Validation Accuracy: ~76.33%
 
 High loss, indicating poor generalization.
 
@@ -48,9 +48,9 @@ Architecture: Used EfficientNetB0 as a pre-trained base model with a GlobalAvera
 
 Results:
 
-Training Accuracy: ~55%
+Training Accuracy: ~51.26%
 
-Validation Accuracy: ~55%
+Validation Accuracy: ~50%
 
 Poor performance, likely due to insufficient fine-tuning or overfitting.
 
